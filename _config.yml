@@ -87,10 +87,10 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e6cpn7MAAAAJ&hl=en"
-  email            : "srikanth.c.sathyanarayana@gmail.com"
+  email            : "sathyanarayanasrikanth@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Srikanth_Sathyanarayana"
   uri              :
-  bitbucket        : "https://bitbucket.org/srikanthcs05"
+  #bitbucket        : "https://bitbucket.org/srikanthcs05"
   codepen          :
   dribbble         :
   flickr           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "srikanth-sathyanarayana/"
   orcid            : 
   pinterest        :
   soundcloud       :

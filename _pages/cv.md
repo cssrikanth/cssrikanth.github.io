@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,11 @@ redirect_from:
 
 Research Interests
 ======
-* Supersonic turbulent flows
-* Direct Numerical Simulations
-* Shock boundary layer Interaction
+* High Performance Computing
+* Direct Numerical Simulations for compressible flows
 * Discrete adjoint approach for steady and unsteady flows
 * Meshfree methods
-* High Performance Computing
+* Optimal flow control
 
 
 Education
@@ -33,17 +32,15 @@ Research experience
 
 Research Projects
 ======
+* Development of Direct Numerical Simulation solver using HIP (Nov 2021 - Present)
+  * Supplementory work to the main PhD subject. Adviced by and collaboration with Prof. Matteo Bernardini and Dr. Francesco Salvadore (Cineca)
 * Supersonic turbulent flows over rough surfaces (Nov 2019 - Present)
-  * PhD work advised by Prof. Matteo Bernardini
-* Sensitivity analysis for active flow control in buffet (Nov 2019 - Present)
-  * Collaborative work with Russell Quadros (Queen Mary University of London) and Anil Nemili (BITS-Pilani, Hyderabad Campus)
-* Sensitivity analysis for active flow control in buffet (Jun 2018 - Oct 2018)
-  * Collaborative work with Russell Quadros and Matteo Bernardini, Sapienza Università di Roma, Roma, Italia
+  * PhD work advised by Prof. Matteo Bernardini. In collaboration with Dr. Davide Modesti (TU Delft) and Dr. Francesco Salvadore
+* Sensitivity analysis for active flow control in buffet (June 2018 - April 2021)
+  * Collaborative work with Dr. Russell Quadros (Queen Mary University of London) and Dr. Anil Nemili (BITS-Pilani, Hyderabad Campus)
 * Development of a Meshfree solver (Jan 2018 - Aug 2019)
-  * Collaborative work with [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
+  * Collaborative work with Dr. Anil Nemili
 * Development of an accurate and robust unstructured grid-based adjoint approach for compressible turbulent flows (Aug 2017 - Aug 2019)
-  * Advised by [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
-  * Collaborative work with [Praveen Chandrashekar](http://cpraveen.github.io/) from TIFR-CAM, Benguluru, India
+  * Advised by Dr. Anil Nemili
+  * Collaboration with Prof. Praveen Chandrashekar (TIFR-CAM, Benguluru, India)
   * Sponsored by DST-SERB 
-* Implementation and Evaluation of a New Numerical Scheme for Diffusive Fluxes using Finite Volume Method (Sep 2015 - Sep 2016)
-  * Master Thesis work advised by [Niklas Andersson](https://www.chalmers.se/en/staff/Pages/niklas-andersson.aspx)
