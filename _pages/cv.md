@@ -32,7 +32,7 @@ Research experience
 Research Projects
 ======
 * Development of Direct Numerical Simulation solver using HIP (Nov 2021 - Present)
-  * Supplementory work to the main PhD subject. Adviced by and collaboration with Prof. Matteo Bernardini and Dr. Francesco Salvadore (Cineca)
+  * Supplementory work to the main PhD subject. Advised by Prof. Matteo Bernardini and Dr. Francesco Salvadore (Cineca)
 * Supersonic turbulent flows over rough surfaces (Nov 2019 - Present)
   * PhD work advised by Prof. Matteo Bernardini. In collaboration with Dr. Davide Modesti (TU Delft) and Dr. Francesco Salvadore
 * Sensitivity analysis for active flow control in buffet (June 2018 - April 2021)
