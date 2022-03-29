@@ -14,7 +14,6 @@ Research Interests
 * High Performance Computing
 * Direct Numerical Simulations for compressible flows
 * Discrete adjoint approach for steady and unsteady flows
-* Meshfree methods
 * Optimal flow control
 
 
