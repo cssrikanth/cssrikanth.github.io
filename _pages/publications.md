@@ -17,6 +17,8 @@ Conference papers (peer reviewed)
 
 Conference presentations
 ======
+* **Sathyanarayana S.**, Modesti D., Salvadore F. and Bernardini M., “Supersonic turbulent flows over distributed surface roughness”, Accepted for presentation at the *14<sup>th</sup> European Fluid Mechanics Conference (EFMC14)*, Athens, Greece, Sep 2022
+
 * **Sathyanarayana S.**, Modesti D., Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *74<sup>th</sup> Annual Meeting of the APS Division of Fluid Dynamics*, Phoenix, USA, Nov 2021
 
 * **Sathyanarayana S.**, Nemili A., Bhole A. and Chandrashekar P., "Unsteady Adjoint Approach for Accurate Shape Sensitivities in Viscous Flows”, *16<sup>th</sup> Asian Congress of Fluid Mechanics (ACFM)*, Bangalore, India, Dec 2019
