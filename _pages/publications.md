@@ -6,7 +6,7 @@ author_profile: true
 ---
 Journal papers
 ======
-*  Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, Journal of Fluid Mechanics, vol. 942, pp. A44, 2022 
+*  Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *Journal of Fluid Mechanics*, vol. 942, pp. A44, 2022 
 
 Conference papers (peer reviewed)
 ======
