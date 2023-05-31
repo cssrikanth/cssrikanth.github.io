@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Srikanth Sathyanarayana"
   avatar           : "profile.png"
-  bio              : "PhD student"
-  location         : "Rome, Italy"
+  bio              : "Postdoctoral Researcher"
+  location         : "Munich, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e6cpn7MAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "cssrikanth"
+  github           : "cssrikanth"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "srikanth-sathyanarayana/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-0119-0478"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            : 
   tumblr           :
-  twitter          : 
+  twitter          : "SrikanthSathya5"
   vine             :
   weibo            :
   xing             :

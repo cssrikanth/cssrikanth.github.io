@@ -6,7 +6,9 @@ author_profile: true
 ---
 Journal papers
 ======
-*  Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *Journal of Fluid Mechanics*, vol. 942, pp. A44, 2022 
+* **Sathyanarayana S.**, Bernardini M., Modesti D., Pirozzoli S. and Salvadore F., "High-speed turbulent flows towards the exascale: STREAmS-2 porting and performance", arXiv preprint arXiv:2304.05494
+* Bernardini M., Modesti D., Salvadore F., **Sathyanarayana S.**, Della Posta G. and Pirozzoli S., "STREAmS-2.0: Supersonic turbulent accelerated Navier-Stokes solver version 2.0", *Computer Physics Communications*, pp. 108644, 2023 
+* Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *Journal of Fluid Mechanics*, vol. 942, pp. A44, 2022 
 
 Conference papers (peer reviewed)
 ======
@@ -20,7 +22,8 @@ Conference papers (peer reviewed)
 
 Conference presentations
 ======
-* **Sathyanarayana S.**, Modesti D., Salvadore F. and Bernardini M., “Supersonic turbulent flows over distributed surface roughness”, Accepted for presentation at the *14<sup>th</sup> European Fluid Mechanics Conference (EFMC14)*, Athens, Greece, Sep 2022
+* Salvadore F., **Sathyanarayana S.**, Modesti D. and Bernardini M., "Compressible turbulent flows at the exascale: STREAmS-2 design and evaluation", *34<sup>th</sup> Parallel Computational Fluid Dynamics (ParCFD) 2023*, Cuenca, Ecuador, May 2023
+* **Sathyanarayana S.**, Modesti D., Salvadore F. and Bernardini M., “Supersonic turbulent flows over distributed surface roughness”, *14<sup>th</sup> European Fluid Mechanics Conference (EFMC14)*, Athens, Greece, Sep 2022
 
 * **Sathyanarayana S.**, Modesti D., Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *74<sup>th</sup> Annual Meeting of the APS Division of Fluid Dynamics*, Phoenix, USA, Nov 2021
 

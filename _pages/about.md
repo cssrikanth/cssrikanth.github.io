@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student in Aeronautics and Space Engineering at Sapienza University of Rome. I am pursuing it under the supervision of Prof. Matteo Bernardini at the department of Mechanical and Aerospace Engineering.
+I am currently a Postdoc at Max Planck Computing & Data Facility (MPCDF). I am part of the [Plasma-PEPSC](https://plasma-pepsc.eu/) project, a EuroHPC Center of Excellence project aimed at preparing four European flagship plasma codes for exascale. My main role for this project is to develop a block-structured grid library for the Gyrokinetic code [GENE](http://genecode.org/) used to perform Tokamok simulations.  
 
-My PhD topic involves the study of distributed surface roughness in supersonic turbulent fluid flows. To achieve this, I will be performing Direct Numerical Simulations(DNS) using our groups in-house code [STREAmS](https://github.com/matteobernardini/STREAmS). I am also involved in accelerating our solver to help perform large scale, computationally expensive DNS. Currently, I handle the development of Hipfort backend.
+Previously, I obtained my PhD in Aeronautics and Space Engineering from Sapienza University of Rome. My PhD topic was aimed at studying distributed surface roughness in supersonic turbulent flows through Direct Numerical Simulations using the in-house code [STREAmS-2](https://github.com/STREAmS-CFD/STREAmS-2). Additionally, I developed a tool to automatically convert STREAmS-2 to any backends targeting NVIDIA (CUDA Fortran)/AMD (HIPFort) GPUs/CPU.
 
 I am parallely involved in other research and personal projects. I would like to use this website to frequently update my progress. [Here](others) are some interesting resources that I feel are worth sharing. 
