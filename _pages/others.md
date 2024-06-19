@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful links"
+title: ""
 permalink: /others/
 author_profile: true
 redirect_from:
@@ -31,3 +31,7 @@ redirect_from:
 * [A good lecture series on An Introduction to Statistical Learning with Applications in R (a toned down version of "The Elements of Statistical Learning")](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 * [A very nice introduction of Statistics especially for ML](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 * [A good place to practise your Pandas skills](https://github.com/guipsamora/pandas_exercises)
+* [LRZ course on advanced Fortran](https://doku.lrz.de/prace-course-advanced-fortran-topics-10746213.html)
+* [Applied Linear Algebra course by Prof. Nathan Kutz](https://faculty.washington.edu/kutz/am584/am584.html)
+* [Playlist of Prof. Steve Brunton containing several courses on Data-driven Science and Engineering](https://www.youtube.com/@Eigensteve/playlists)
+* [A good place to learn Linux](https://linuxjourney.com/)
