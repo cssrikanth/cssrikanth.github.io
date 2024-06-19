@@ -6,6 +6,7 @@ author_profile: true
 ---
 Journal papers
 ======
+* Salvadore F., Rossi G., **Sathyanarayana S.** and Bernardini M., "OpenMP offload toward the exascale using Intel® GPU Max 1550: evaluation of STREAmS compressible solver", *The Journal of Supercomputing*, pp. 1-34, 2024
 * **Sathyanarayana S.**, Bernardini M., Modesti D., Pirozzoli S. and Salvadore F., "High-speed turbulent flows towards the exascale: STREAmS-2 porting and performance", arXiv preprint arXiv:2304.05494
 * Bernardini M., Modesti D., Salvadore F., **Sathyanarayana S.**, Della Posta G. and Pirozzoli S., "STREAmS-2.0: Supersonic turbulent accelerated Navier-Stokes solver version 2.0", *Computer Physics Communications*, pp. 108644, 2023 
 * Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *Journal of Fluid Mechanics*, vol. 942, pp. A44, 2022 
