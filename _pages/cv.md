@@ -16,13 +16,11 @@ Research Interests
 * Discrete adjoint approach for steady and unsteady flows
 * Optimal flow control
 
-
 Education
 ======
 * PhD in Aeronautics and Space Engineering, Sapienza University of Rome, Rome, Italy (Nov 2019 - May 2023)
 * Msc in Applied Mechanics, Chalmers University of Technology, Gothenburg, Sweden (Aug 2014 - May 2017)
 * BE in Mechanical Engineering, BMS College of Engineering, Bangalore, India (Sep 2010 - Jun 2014)
-
 
 Work experience
 ======

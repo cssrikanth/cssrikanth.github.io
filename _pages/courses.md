@@ -8,8 +8,8 @@ author_profile: true
 HPC courses
 ======
 
+* [Iterative Solvers for Linear Systems @LRZ Sep 17 - 18 2024](../files/lrz_Iterative_solvers.pdf)
 * [Deep Learning and GPU Programming Workshop @CSC May 10 - 13 2022](../files/deep_learning_gpu.pdf)
-* [Introduction to ScaLAPACK and MAGMA libraries @MdlS/Idris March 15 - 16 2022](../files/scalapack_magma.pdf)
 * [Advanced Parallel Programming with MPI and OpenMP @JSC  Nov 30 - Dec 2 2020](../files/advanced_mpi_openmp.pdf)
 
 Full length Courses
