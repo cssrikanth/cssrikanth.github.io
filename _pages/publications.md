@@ -6,7 +6,9 @@ author_profile: true
 ---
 Journal papers
 ======
-* **Sathyanarayana S.**, Bernardini M., Modesti D., Pirozzoli S. and Salvadore F., "High-speed turbulent flows towards the exascale: STREAmS-2 porting and performance", *Journal of Parallel and Distributed Computing*, 2024, [DOI](https://doi.org/10.1016/j.jpdc.2024.104993)
+* Salvadore F., Soldati G., Ceci A., Rossi G., Memmolo A., Della Posta G., Modesti D., **Sathyanarayana S.**, Bernardini M. and Pirozzoli S., "STREAmS-2.1: Supersonic turbulent accelerated Navier-Stokes solver version 2.1", *Computer Physics Communications*, 2025, [DOI](https://doi.org/10.1016/j.cpc.2025.109652)
+* **Sathyanarayana S.**, Bernardini M., Modesti D., Pirozzoli S. and Salvadore F., "High-speed turbulent flows towards the exascale: STREAmS-2 porting and performance", *Journal of Parallel and Distributed Computing*, 2025, [DOI](https://doi.org/10.1016/j.jpdc.2024.104993)
+* Salvadore F., Rossi G., **Sathyanarayana S.** and Bernardini M., "OpenMP offload toward the exascale using Intel® GPU Max 1550: evaluation of STREAmS compressible solver", *The Journal of Supercomputing*, 2024, [DOI](https://doi.org/10.1007/s11227-024-06254-y)
 * Salvadore F., Rossi G., **Sathyanarayana S.** and Bernardini M., "OpenMP offload toward the exascale using Intel® GPU Max 1550: evaluation of STREAmS compressible solver", *The Journal of Supercomputing*, 2024, [DOI](https://doi.org/10.1007/s11227-024-06254-y)
 * Bernardini M., Modesti D., Salvadore F., **Sathyanarayana S.**, Della Posta G. and Pirozzoli S., "STREAmS-2.0: Supersonic turbulent accelerated Navier-Stokes solver version 2.0", *Computer Physics Communications*, 2023, [DOI](https://doi.org/10.1016/j.cpc.2022.108644)
 * Modesti D., **Sathyanarayana S.**, Salvadore F. and Bernardini M., “Direct numerical simulation of supersonic turbulent flows over rough walls”, *Journal of Fluid Mechanics*, 2022, [DOI](https://doi.org/10.1017/jfm.2022.393)
